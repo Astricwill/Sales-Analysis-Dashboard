@@ -110,12 +110,4 @@ streamlit run app.py
 
 ## Live demo
 
-[Add your Streamlit Community Cloud link here]
-
-## Screenshots
-
-[Add 2-3 screenshots here: Overview, Product analysis, Sales performance]
-
-## What I learned
-
-[2-3 lines: multi-table joins, aggregations, CTEs, parameterised filters, turning queries into an interactive dashboard]
+<https://sales-analysis-dashboard-5vv6k5pkdt3kgpdzm6tkqt.streamlit.app>
