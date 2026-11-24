@@ -49,10 +49,6 @@ An interactive business intelligence dashboard built with **SQL, Python (Pandas)
 - Does the Online channel perform better than In-Store in a particular region?
 - Did sales change in the last quarter compared to the one before?
 
-## Key insights
-
-[Add 3-4 findings from your own data, with numbers. For example: "Category X brings in **% of revenue but only**% of profit", "Region Y is **% below the top region", "** of __ employees met their annual target".]
-
 ## Features
 
 - **Sidebar navigation** with eight pages: Overview, Sales performance, Revenue analysis, Product analysis, Customer analysis, Regional analysis, Sales trends, Settings
